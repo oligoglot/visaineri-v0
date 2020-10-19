@@ -1,0 +1,43 @@
+head	1.2;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.2
+date	2004.08.17.08.52.18;	author lsundar;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2004.08.17.08.43.21;	author lsundar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@clarify alphabetical ordering of developer names
+@
+text
+@(c) L.BalaSundaraRaman, S.Ishwar, Sanjeeth Kumar Ravindranath (in alphabetical order)
+VisaiNeri software is distributed and is redistributable only under GNU Public License (GPL) or Perl Artistic License
+Please remember that this Copyright notice needs to be placed in every program part of this package.
+@
+
+
+1.1
+log
+@License - initial release
+@
+text
+@d1 1
+a1 1
+(c) L.BalaSundaraRaman, S.Ishwar, Sanjeeth Kumar Ravindranath
+@
+

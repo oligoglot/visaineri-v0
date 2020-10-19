@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.17.08.19.20;	author lsundar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@MakeFile to setup project
+@
+text
+@all:
+	javac src\*.java -d classfiles
+clean:
+	del classfiles\*.class
+	del classfiles\Venpa.bare classfiles\output.b4 classfiles\output2thalai
+@
