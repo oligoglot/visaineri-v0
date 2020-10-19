@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.17.08.36.26;	author lsundar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Sample input files - initial release
+@
+text
+@1.        «¸Ã Ó¾Ä ±Øò¦¾øÄ¡õ ¬¾¢¬¾¢¬¾¢
+        À¸Åý Ó¾ü§È ¯ÄÌ.
+        'A' leads letters; the Ancient Lord             1
+        Leads and lords the entire world.
+
+@

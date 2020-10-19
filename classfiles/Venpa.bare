@@ -1,0 +1,36 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.17.08.30.35;	author lsundar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Compiled class files - initial commit
+@
+text
+@4.        §ÅñÎ¾ø§Åñ ¼¡¨Á ­Ä¡ÉÊ §º÷ó¾¡÷ìÌ
+        Â¡ñÎõ ­Îõ¨À ­Ä.
+        Who hold His feet who likes nor loathes         4
+        Are free from woes of human births.
+
+5.        ­Õû§º÷ ­ÕÅ¢¨ÉÔõ §ºÃ¡ ­¨ÈÅı
+        ¦À¡Õû§º÷ Ò¸úÒÃ¢ó¾¡÷ Á¡ğÎ.
+        God's praise who tell, are free from right      5
+        And wrong, the twins of dreaming night.
+
+6.        ¦À¡È¢Å¡Â¢ø ³ó¾Å¢ò¾¡ı ¦À¡ö¾£÷ ´Øì¸
+        ¦¿È¢¿¢ıÈ¡÷ ¿£ÎÅ¡ú Å¡÷.
+        They prosper long who walk His way              
+@

@@ -1,0 +1,28 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.17.08.34.45;	author lsundar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Java Source files mainly generated from JavaCC, JavaCC files to be added later
+@
+text
+@all:
+	javac src\*.java -d classfiles
+clean:
+	del classfiles\*.class
+	del classfiles\Venpa.bare classfiles\output.b4 classfiles\output2thalai
+@

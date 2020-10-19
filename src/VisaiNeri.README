@@ -1,0 +1,47 @@
+head	1.1;
+access;
+symbols;
+locks; strict;
+comment	@# @;
+
+
+1.1
+date	2004.08.17.08.34.45;	author lsundar;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.1
+log
+@Java Source files mainly generated from JavaCC, JavaCC files to be added later
+@
+text
+@VisaiNeri
+---------
+System Requirements:
+1.Java
+2.MylaiTsc.ttf(Font file provided in the "requiredfonts" directory)
+3.Tested on Windows, but should run on UNIX too
+
+Documentation:
+Please read the accompanying document CFGVenpa.pdf.
+The document is a technical paper presented in Tamil Internet 2003. It can also be downloaded from the URL http://www.infitt.org/ti2003/papers/19_raman.pdf.
+
+Installation Procedure:
+After unzipping this zip file,
+shell> nmake 
+shell> java ./classfiles/MainFrame
+
+Working with the application:
+1. Click Load and select one of the sample input files provided in "inputfiles" or any other text in Tsciifont. You can also edit the text.
+2. Click Parse to check conformance to grammar.
+
+Test Cases:
+1. ./inputfiles/Sample1.txt
+2. ./inputfiles/Sample2.txt
+3. ./inputfiles/Sample3.txt
+@
